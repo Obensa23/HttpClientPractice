@@ -1,8 +1,0 @@
-# Archivos de compilación
-bin/
-*.class
-
-# Archivos de configuración
-.classpath
-.project
-.settings/
