@@ -1,0 +1,18 @@
+# Archivos de compilación
+bin/
+out/
+*.class
+
+# Configuración de IDEs
+.vscode/
+.idea/
+*.iml
+
+# Dependencias de Java
+*.jar
+*.war
+*.ear
+
+# Archivos de compilación de Maven y Gradle
+target/
+build/
